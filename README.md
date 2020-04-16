@@ -1,2 +1,2 @@
 # jo503-2020
-hello! first time using github hehe
+hello! first time using github :)
